@@ -4,7 +4,7 @@ A web application built with Python, scikit-learn, and Streamlit that classifies
 
 ## 🚀 Live Demo
 
-*(This is a placeholder for when we deploy to Streamlit Community Cloud. We'll fill this in later.)*
+[**Click here to view the live web app!**](https://fake-news-detector-ajeijfdwhclmskjs5qhbsn.streamlit.app/)
 
 ## 🛠️ Tech Stack
 
